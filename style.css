@@ -1,0 +1,37 @@
+body {
+    background-color: blanchedalmond;
+}
+
+header {
+    border: 1px solid #C5D3E8 ;
+    padding: 30px;
+    text-align: center;
+}
+
+header h1 {
+    color: #C5D3E8;
+}
+
+header p {
+       font-style: italic;
+}
+
+header img {
+      width: 30%;
+      border: 2px solid #C5D3E8;
+      border-radius: 50%;
+}
+
+    header button {
+        display: block;
+        margin: 20px auto;
+        padding: 10px 30px;
+        background-color: rgb(179, 233, 249);
+        color: rgb(32, 41, 130);
+        border-radius: 15px;
+        border: 1px solid rgb(247, 166, 15)
+  }
+
+
+
+
